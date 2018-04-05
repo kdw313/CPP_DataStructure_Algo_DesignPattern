@@ -2,7 +2,7 @@ template <typename T>
 class HashNode
 {
   public:
-    HashNode() : m_key(0) {}
+    HashNode() : m_key(-1) {}
     ~HashNode() {}
 
     int GetKey() 
@@ -15,7 +15,7 @@ class HashNode
          m_key = k;
     }
     
-    T GetObject() 
+    T GetObj() 
     { 
         return m_obj; 
     }

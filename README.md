@@ -1,8 +1,8 @@
 # CPP_DataStructure_Algo_DesignPattern
 
-##Practice with C++
+## Practice with C++
 
-###- Datat Structure
-###- Algorithm
-###- C++ Library
-###- Design Pattern
+### - Datat Structure
+### - Algorithm
+### - C++ Library
+### - Design Pattern
